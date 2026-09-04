@@ -1,0 +1,11 @@
+Flask>=3.0.0
+Flask-Bootstrap4>=4.0.0
+Flask-Reuploaded>=1.6.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+torchtext
+lightning>=2.0.0
+pyyaml>=6.0
+Werkzeug>=3.0.0
